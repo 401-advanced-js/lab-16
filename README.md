@@ -6,12 +6,12 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [PR](https://github.com/401-advanced-js/lab-16/pull/1)
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-16.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-16)
+* [back-end](https://shielded-waters-63954.herokuapp.com/)
 
 #### Documentatio
-* [jsdoc](http://xyz.com) (All assignments)
+* [jsdoc](https://shielded-waters-63954.herokuapp.com/docs)
 
 ### Modules
 #### `modulename.js`
